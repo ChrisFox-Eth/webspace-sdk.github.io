@@ -1,12 +1,12 @@
 model
 name = BETTER CALL SAUL
-revision = 8409
+revision = 8412
 size = 22 40 21
 origin = -y
 shell = Outline 0.25
 material type = toon, lighting = smooth, deform = 1 1
-  colors = E:#2F19BE
+  colors = E:#2F19BE C:#FFE3EC
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-1299-13(20E2-)4(3(19E3-)4(20E2-)20E420-6(20E2-)4(19E3-)3(20E2-))7(20E2-)14(20E420-6(20E2-)4(19E3-)10(20E2-))20E420-20(20E2-)20E-
+1299-13(20E2-)4(3(19E3-)4(20E2-)20E420-6(20E2-)4(19E3-)3(20E2-))7(20E2-)20E420-6(20E2-)4(19E3-)10(20E2-)5(20E420-6(20E2-)4(19E3-)6(20E2-)3(19EC2-)20E2-)2(20E420-6(20E2-)4(19E3-)10(20E2-))4(20E420-6(20E2-)4(19E3-)6(20E2-)3(19EC2-)20E2-)2(20E420-6(20E2-)4(19E3-)10(20E2-))20E420-20(20E2-)20E-
